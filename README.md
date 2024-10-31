@@ -10,7 +10,11 @@
                                               `:;             `:'
                                                  :              `.
                                                   `.              `.     
-                                                    `'`'`'`---..,___`.
+                                                    `'`'`'`---..,___`. 
+# CLONAR REPOSITORIO
+
+> git clone
+
 # DEPENDENCIAS PARA FANTASMASCRIPT                                                    
 Instalar ADB Archlinux 
 
