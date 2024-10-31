@@ -15,6 +15,8 @@
 
 > git clone https://github.com/JoeArchV/FantasmaScript.git
 
+Si falla el git clone descargalo por archivo zip
+
 # DEPENDENCIAS PARA FANTASMASCRIPT                                                    
 Instalar ADB Archlinux 
 
