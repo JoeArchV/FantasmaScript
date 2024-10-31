@@ -11,6 +11,7 @@
                                                  :              `.
                                                   `.              `.     
                                                     `'`'`'`---..,___`.
+# DEPENDENCIAS PARA FANTASMASCRIPT                                                    
 Instalar ADB Archlinux 
 
  > sudo pacman -S adb
