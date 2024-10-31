@@ -32,6 +32,11 @@ Instalar SCRCPY Debian/Ubuntu/Kali
 
  > sudo apt install scrcpy
 
+# INICIAR HERRAMIENTA
+
+ > sudo python3 ./FantasmaScript
+
+
 
 
 
