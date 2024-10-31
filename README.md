@@ -13,19 +13,19 @@
                                                     `'`'`'`---..,___`.
 Instalar ADB Archlinux 
 
-> sudo pacman -S adb
+ > sudo pacman -S adb
 
 Instalar ADB Debian/Ubuntu/Kali
 
-> sudo apt install adb
+ > sudo apt install adb
 
 Intalar SCRCPY Archlinux
 
-> sudo pacman -S scrcpy
+ > sudo pacman -S scrcpy
 
 Instalar SCRCPY Debian/Ubuntu/Kali
 
-> sudo apt install scrcpy
+ > sudo apt install scrcpy
 
 
 
