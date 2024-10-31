@@ -1,13 +1,33 @@
-Instalar ADB
+                                               .-.
+                                             .'   `.
+                                             :0 0   :
+                                             : o    `.
+                                            :         ``.
+                                           :             `.
+                                          :  :         .   `.
+                                          :   :          ` . `.
+                                           `.. :            `. ``;
+                                              `:;             `:'
+                                                 :              `.
+                                                  `.              `.     
+                                                    `'`'`'`---..,___`.
+Instalar ADB Archlinux 
 
-Archlinux: sudo pacman -S adb
+> sudo pacman -S adb
 
-Debian/Kali/Ubuntu: sudo apt install adb
+Instalar ADB Debian/Ubuntu/Kali
 
-Instalar SCRCPY
+> sudo apt install adb
 
-Archlinux: sudo pacman -S scrcpy
+Intalar SCRCPY Archlinux
 
-Debian/Kali/Ubuntu: sudo apt install scrcpy
+> sudo pacman -S scrcpy
+
+Instalar SCRCPY Debian/Ubuntu/Kali
+
+> sudo apt install scrcpy
+
+
+
 
 
