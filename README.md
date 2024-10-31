@@ -13,7 +13,7 @@
                                                     `'`'`'`---..,___`. 
 # CLONAR REPOSITORIO
 
-> git clone
+> git clone https://github.com/JoeArchV/FantasmaScript.git
 
 # DEPENDENCIAS PARA FANTASMASCRIPT                                                    
 Instalar ADB Archlinux 
